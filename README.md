@@ -1,6 +1,9 @@
 # GooseJDeck 🦢 - Java Plugin Decompiler
 
-![GooseJDeck Logo](screenshots/logo.png) <!-- Здесь потом вставишь ссылку на логотип -->
+<p align="center">
+  <img src="screenshots/logo.png" alt="GooseJDeck Logo" width="200"/>
+</p>
+
 
 **GooseJDeck** — это программа для быстрого декомпилирования Java-плагинов Minecraft в полноценный проект для IntelliJ IDEA или Maven.  
 Работает без установки Python и без лишних файлов — только один `.exe`!
